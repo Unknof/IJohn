@@ -34,7 +34,7 @@ As a result, early OCA sessions often focus on foundational orientation rather t
 
 By mid-May 2026, the tool should:
 
-- Enable early reflection on interests, motivations, and constraints
+- Enable early reflection on interests, motivations, and constraints 
 
 - Help students identify **plausible industry or role directions**
 
@@ -96,15 +96,15 @@ It explicitly complements, rather than replaces, courses, advisors, and OCA.
 
 - Clear framing and limitations communicated throughout the experience
 
-**Explicitly Excluded from MVP** (Todo: What is MVP here -> Minimal Viable Project = Not first version)
+**Explicitly Excluded from MVP**
 
-- Specific job or employer recommendations (Todo: how specific?)
+- Specific job or employer recommendations
 
 - Direct alumni introductions
 
 - **Course recommendations**
 
-- Evaluation, scoring, or ranking of students (Todo: what do we score?)
+- Evaluation, scoring, or ranking of students
 
 - Integration with hiring or applicant tracking systems
 
