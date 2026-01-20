@@ -1,6 +1,11 @@
 Figure out limitations:
 - Can you give coworkers access to internal AI?
+-   Good question... If necessary, probably doable, but maybe not yet? Can ask Sharad.
 - How many and what kind of ressources can we use to build IJohn?
+-   A: PingPong and potentially a Google/OneDrive environment. Graphical material from the course book etc.
 - How sharp can we define our framework?
+-   A: Clarify
 - Is there a well defined approach to guide users through Q/A or do we need to build it ourself?
+-   A: Build it ourselves I think or what do you mean?
 - Is the scope set it stone? Will this always be a HKS internal tool?
+-   A: Potentially growing to include the Alumni base - in an extreme case expanded to rest of Harvard, maybe MIT? (Chance for that <5-10%)
