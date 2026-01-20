@@ -1,6 +1,6 @@
 Figure out limitations:
 - Can you give coworkers access to internal AI?
--   Good question... If necessary, probably doable, but maybe not yet? Can ask Sharad.
+-   A: Good question... If necessary, probably doable, but maybe not yet? Can ask Sharad.
 - How many and what kind of ressources can we use to build IJohn?
 -   A: PingPong and potentially a Google/OneDrive environment. Graphical material from the course book etc.
 - How sharp can we define our framework?
